@@ -1,0 +1,1 @@
+Car{producer='Lada', model='deviatca', year=1999, color='Malinovaia'}
